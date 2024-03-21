@@ -1,0 +1,5 @@
+{
+    "pingOnStartup":"false",
+    "webhook":"file",
+    "delayMS":"3333"
+}
